@@ -1,0 +1,46 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(45, 65, 95);
+}
+
+#dokumenter{
+    text-align: center;
+    border-width:2px;
+    border-style:hidden;
+    border-color:black;
+    width: 70%;
+    margin:  auto;
+    background-color: rgb(178, 203, 248);
+    border-radius: 20px;
+    margin-top: 100px;
+    height: 150px;
+}
+
+#medlemmer{
+    text-align: center;
+    border-width:2px;
+    border-style:hidden;
+    border-color:black;
+    width: 70%;
+    margin:  auto;
+    background-color: rgb(178, 203, 248);
+    margin-top: 100px;
+    border-radius: 20px;
+    height: 150px;
+}
+
+#logo{
+    text-align: center;
+    margin-bottom: 100 px;
+}
+
+
+h1{
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
