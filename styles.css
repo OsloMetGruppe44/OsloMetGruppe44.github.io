@@ -1,7 +1,7 @@
 body{
     height: 100%;
     width: 100%;
-    background-color: rgb(158, 216, 255);
+    background-color: rgb(255, 255, 255);
 }
 
 #dokumenter{
@@ -11,7 +11,7 @@ body{
     border-color:black;
     width: 70%;
     margin:  auto;
-    background-color: rgb(228, 238, 255);
+    background-color: rgb(255, 255, 255);
     border-radius: 20px;
     margin-top: 100px;
     height: 150px;
@@ -24,7 +24,7 @@ body{
     border-color:black;
     width: 70%;
     margin:  auto;
-    background-color: rgb(228, 238, 255);
+    background-color: rgb(255, 255, 255);
     margin-top: 100px;
     border-radius: 20px;
     height: 150px;
